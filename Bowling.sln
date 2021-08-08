@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app\Bowling", "app\Bowling\Bowling.csproj", "{5CB2F2D5-607A-4DC5-8DE6-EBE7BC7115E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app\Bowling.IoC", "app\Bowling.IoC\Bowling.IoC.csproj", "{777EEBCA-377F-4B13-9740-8D25EFB92BF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app\Bowling.Domain", "app\Bowling.Domain\Bowling.Domain.csproj", "{1CAECECC-0703-47A5-985B-0DC8B2F6C4CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app\Bowling.Test", "app\Bowling.Test\Bowling.Test.csproj", "{5FC7ACCC-EB9B-4826-95E8-F4B14C85A32B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CB2F2D5-607A-4DC5-8DE6-EBE7BC7115E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB2F2D5-607A-4DC5-8DE6-EBE7BC7115E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB2F2D5-607A-4DC5-8DE6-EBE7BC7115E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB2F2D5-607A-4DC5-8DE6-EBE7BC7115E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{777EEBCA-377F-4B13-9740-8D25EFB92BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777EEBCA-377F-4B13-9740-8D25EFB92BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777EEBCA-377F-4B13-9740-8D25EFB92BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777EEBCA-377F-4B13-9740-8D25EFB92BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CAECECC-0703-47A5-985B-0DC8B2F6C4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAECECC-0703-47A5-985B-0DC8B2F6C4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAECECC-0703-47A5-985B-0DC8B2F6C4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAECECC-0703-47A5-985B-0DC8B2F6C4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC7ACCC-EB9B-4826-95E8-F4B14C85A32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC7ACCC-EB9B-4826-95E8-F4B14C85A32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC7ACCC-EB9B-4826-95E8-F4B14C85A32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC7ACCC-EB9B-4826-95E8-F4B14C85A32B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

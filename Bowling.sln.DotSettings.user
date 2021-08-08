@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ad9bf020_002D6006_002D42c0_002D981d_002D04c5faa140c8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ScoreWithOpenFrame" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::5FC7ACCC-EB9B-4826-95E8-F4B14C85A32B::net5.0::Bowling.Test.GameTest.ScoreWithOpenFrame&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::5FC7ACCC-EB9B-4826-95E8-F4B14C85A32B::net5.0::Bowling.Test.GameTest.ScoreWithOpenFrame1&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::5FC7ACCC-EB9B-4826-95E8-F4B14C85A32B::net5.0::Bowling.Test.GameTest.ScoreWithOpenFrame2&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFile&gt;5FC7ACCC-EB9B-4826-95E8-F4B14C85A32B/f:FrameTest.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;5FC7ACCC-EB9B-4826-95E8-F4B14C85A32B/f:GameTest.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c569f4ac_002D85bb_002D4bd7_002D9c38_002Dbcc96b007bc6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from UnitTest1.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/lcauzzi/RiderProjects/Bowling/app/Bowling.Test" Presentation="&amp;lt;Bowling.Test&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d5883d9e_002D4fc6_002D4d0c_002D8df9_002D7642ec5a9d8a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ScoreWithOpenFrame2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;5FC7ACCC-EB9B-4826-95E8-F4B14C85A32B/f:GameTest.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;5FC7ACCC-EB9B-4826-95E8-F4B14C85A32B/f:FrameTest.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
